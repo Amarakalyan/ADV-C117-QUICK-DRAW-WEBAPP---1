@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(252, 119, 241);
+}
+h1{
+   font-family: 'Oswald', sans-serif;
+   background-color: rgb(252, 250, 251);
+   color: rgb(98, 166, 255);
+}
+#show_sketch{
+    float: right;
+}
+#score{
+    font-size: 20px;
+    font-family:'Oswald', sans-serif ;
+    margin-right: 5px;
+}
+p{
+    font-size: 25px;
+    font-family:'Oswald', sans-serif ;
+color: rgb(71, 225, 245);
+}
+#sketch_to_be_drawn{
+    color: tomato;
+}
